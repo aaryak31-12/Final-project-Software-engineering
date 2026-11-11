@@ -1,4 +1,4 @@
-"""Simple validation and the dictionary used to represent one product."""
+# validation and the dictionary used to represent one product
 
 # SQLite can store whole numbers up to this size.
 MAX_NUMBER = 9223372036854775807

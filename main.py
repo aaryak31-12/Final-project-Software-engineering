@@ -1,4 +1,4 @@
-"""Simple text menu to test the backend before the PySide6 GUI is ready."""
+# text menu to test the backend before the PySide6 is ready
 
 from inventory_backend import InventoryManager
 

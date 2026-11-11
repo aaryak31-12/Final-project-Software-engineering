@@ -1,4 +1,4 @@
-"""Simple inventory operations used by the GUI."""
+#Inventory operations used by the GUI
 
 import sqlite3
 
